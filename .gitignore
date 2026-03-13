@@ -1,0 +1,8 @@
+python-embed/
+data/
+__pycache__/
+*.pyc
+.env
+.streamlit/
+.venv/
+venv/
